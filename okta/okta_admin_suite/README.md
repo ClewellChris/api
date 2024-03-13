@@ -9,4 +9,6 @@
 
 2. Put Key in the Sensitive.py File 
 
-3. Run Script 
+3. Update Domain and Repo where updates will happen
+
+4. Run Script 
